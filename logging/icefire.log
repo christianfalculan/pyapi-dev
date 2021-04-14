@@ -1,0 +1,6 @@
+INFO:04/14/2021 09:48:41 PM Scripting started
+CRITICAL:04/14/2021 09:48:41 PM must be str, not NoneType
+INFO:04/14/2021 09:48:41 PM Program ended
+INFO:04/14/2021 09:50:39 PM Scripting started
+CRITICAL:04/14/2021 09:50:39 PM must be str, not NoneType
+INFO:04/14/2021 09:50:39 PM Program ended
